@@ -11,3 +11,5 @@ Some challenges from hacker rank using Ruby language
 4- plus_minus.rb => https://www.hackerrank.com/challenges/plus-minus/problem
 
 5- star_case.rb => https://www.hackerrank.com/challenges/staircase/problem
+
+6- grading_students.rb => https://www.hackerrank.com/challenges/grading/problem
